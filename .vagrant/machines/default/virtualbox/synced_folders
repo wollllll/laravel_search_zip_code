@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"C:/Users/private/work/search_zip_code","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/private/work/search_zip_code","disabled":false,"__vagrantfile":true}}}
